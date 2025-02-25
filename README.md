@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Can Zunal</h1>
 
-<h3 align="left">Connect with me: **https://www.linkedin.com/in/canzunal/**</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/canzunal/</h3>
+<h3 align="left">Leetcode Profile: https://leetcode.com/u/canzunal/</h3>
+
 <p align="left">
 </p>
 
